@@ -2,7 +2,7 @@
 
 ◆　Trajectory_Data.ipynb　：人流トラジェクトリーデータ (横持）を縦持ちに整形する
 
-👉 [ipynbファイルはこちら] (https://github.com/iwakazusuwa/ipynb__people/blob/main/README.md)
+👉 [ipynbファイルはこちら](https://github.com/iwakazusuwa/ipynb__people/blob/main/README.md)
 
 
 詳しい使い方や解説は以下の記事をご覧ください。
